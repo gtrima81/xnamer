@@ -31,6 +31,4 @@ class SimplePlaceNamer:
 
 if __name__ == "__main__":
     x = SimplePlaceNamer()
-    x.test_out()
-
-    x = SimplePlaceNamer()
+    print(x.get_name())
