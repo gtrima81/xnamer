@@ -67,7 +67,7 @@ if you just want to play with the names, the python route is easier if you have 
 * __FEATURE:__ config file?  Why not, eveybody's doing it!
 * __FEATURE:__ specify generation from a specific data file or maybe even from sets of data files
 * __FEATURE:__ specify multiple generation rules per data file
-  * __FEATURE:__ ability to specify multiple generation rules per data file
+  * __FEATURE:__ ability to specify specific rules per generation
 * __FEATURE:__ make parsing of data files more flexible so more than two wordbit types can be made available
 * __FEATURE:__ ability to specify multiple generation rules per data file
 
